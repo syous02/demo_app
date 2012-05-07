@@ -261,4 +261,4 @@ vendor
   vendor/rails/. This directory is in the load path.
 
 
-  Left off at section 2.2.2
+  End of chapter 2
